@@ -1,0 +1,8 @@
+{
+  "name": "devacticlogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "e48fc2fb"
+}
